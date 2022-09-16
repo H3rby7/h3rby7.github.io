@@ -1,0 +1,19 @@
+.btn_menu {
+  font-size: 48px;
+  text-transform: uppercase;
+  color: #ddd;
+  background-color: rgba(33, 33, 33, 0.3);
+  border-radius: 12px;
+  border: 5px outset black;
+  cursor: pointer;
+}
+
+.btn_menu:hover,
+.btn_menu:active
+.btn_menu:focus {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.btn_menu.ingame {
+	font-size: 24px;
+}

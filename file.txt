@@ -1,0 +1,27 @@
+Powerup Ideen:
+* Portalgun - weitere portals
+
+Bounds:
+* wie bei RL dropshot, boundaries destructable
+* boundaries nach ballcontact erst oben oder noch nicht destructible
+
+Levels:
+* Weitere SOLID blöcke im Spiel als verschiedene level
+
+Controls:
+* langsamere players für mehr kontrolle?
+	* ggf. eine Taste für "sprinten"?
+* perspektive controls (W ist immer vorwärts, S rückwärts)
+
+Nice to have:
+* mechanics für pros
+	* rotation zum schlagen nutzen?
+	* moves zusammen machen zb um zu „schmettern“
+* 1on1 modus?
+* 2v2 remote
+
+LOB:
+* schnell und bouncy
+* nice
+
+split screen - CHECK
